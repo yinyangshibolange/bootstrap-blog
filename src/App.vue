@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <b-container fluid="true">
+    <b-container fluid>
       <b-row>
         <b-col cols="12" md="3" class="header">
           <header>
